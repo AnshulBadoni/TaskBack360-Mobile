@@ -15,7 +15,7 @@ export default function TabLayout() {
           height: 80,
           paddingBottom: 25,
           paddingTop: 10,
-          backgroundColor: 'white',
+          backgroundColor: '#F9FAFB',
         },
         headerShown: false,
       }}
